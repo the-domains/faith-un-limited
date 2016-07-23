@@ -1,0 +1,14 @@
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.883428
+  lightness: 0.742809
+  rhythmicContrast: 0.529241
+  saturation: 0.692608
+layout_spectrum: 0.889358
+name: faith-un.limited
+typography_spectrum: 0.087838
